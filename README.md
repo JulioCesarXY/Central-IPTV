@@ -4,6 +4,8 @@ Uma coleção de scripts e ferramentas automatizadas para extração de guias de
 
 | Plataforma / Provedor | Repositório | Status |
 | :--- | :--- | :---: |
+| 🚀 **Uplix TV** | [`EPG-UplixTV`](https://github.com/JulioCesarXY/EPG-UplixTV) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
+| 👁️ **Olhos Na TV** | [`EPG-OlhosNaTV`](https://github.com/JulioCesarXY/EPG-OlhosNaTV) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
 | 📺 **LG Channels** | [`EPG-LG-Channels`](https://github.com/JulioCesarXY/EPG-LG-Channels) | `Ativo` |
 | 📺 **TCL Channel** | [`EPG-TCL-Channel`](https://github.com/JulioCesarXY/EPG-TCL-Channel) | `Ativo` |
 | 🌐 **BXTV** | [`EPG-BXTV`](https://github.com/JulioCesarXY/EPG-BXTV) | `Ativo` |
@@ -11,7 +13,7 @@ Uma coleção de scripts e ferramentas automatizadas para extração de guias de
 | 🇺🇸 **LocalNow** | [`EPG-LocalNow`](https://github.com/JulioCesarXY/EPG-LocalNow) | `Ativo` |
 | 🌍 **Parsa TV** | [`EPG-ParsaTV`](https://github.com/JulioCesarXY/EPG-ParsaTV) | `Ativo` |
 | 📡 **FreeCast** | [`EPG-FreeCast`](https://github.com/JulioCesarXY/EPG-FreeCast) | `Ativo` |
-| 🎥 **Plex (Brasil)** | [`EPG-Plex-Brazil`](https://github.com/JulioCesarXY/EPG-Plex-Brazil) | `Em Manutenção` |
+| 🎥 **Plex (Brasil)** | [`EPG-Plex-Brazil`](https://github.com/JulioCesarXY/EPG-Plex-Brazil) | `Ativo` |
 
 ---
 
