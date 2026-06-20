@@ -13,7 +13,7 @@ Uma coleção de scripts e ferramentas automatizadas para extração de guias de
 | 🇺🇸 **LocalNow** | [`EPG-LocalNow`](https://github.com/JulioCesarXY/EPG-LocalNow) | `Ativo` |
 | 🌍 **Parsa TV** | [`EPG-ParsaTV`](https://github.com/JulioCesarXY/EPG-ParsaTV) | `Ativo` |
 | 📡 **FreeCast** | [`EPG-FreeCast`](https://github.com/JulioCesarXY/EPG-FreeCast) | `Ativo` |
-| 🎥 **Plex (Brasil)** | [`EPG-Plex-Brazil`](https://github.com/JulioCesarXY/EPG-Plex-Brazil) | `Ativo` |
+| 🎥 **Plex (Brasil)** | [`EPG-Plex-Brazil`](https://github.com/JulioCesarXY/EPG-Plex-Brazil) | `Em Manutenção` |
 
 ---
 
