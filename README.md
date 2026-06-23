@@ -5,6 +5,7 @@ Uma coleção de scripts e ferramentas automatizadas para extração de guias de
 | Plataforma / Provedor | Repositório | Status |
 | :--- | :--- | :---: |
 | 📺 **TV LatinaSat** | [`EPG-TVLatinaSat`](https://github.com/JulioCesarXY/EPG-TVLatinaSat) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
+| 📺 **Clube Canais** | [`EPG-ClubeCanais`](https://github.com/JulioCesarXY/EPG-ClubeCanais) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
 | 📺 **Rede ITV** | [`EPG-RedeITV`](https://github.com/JulioCesarXY/EPG-RedeITV) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
 | 🚀 **Uplix TV** | [`EPG-UplixTV`](https://github.com/JulioCesarXY/EPG-UplixTV) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
 | 👁️ **Olhos Na TV** | [`EPG-OlhosNaTV`](https://github.com/JulioCesarXY/EPG-OlhosNaTV) | ![Novo](https://img.shields.io/badge/-Novo-brightgreen) |
